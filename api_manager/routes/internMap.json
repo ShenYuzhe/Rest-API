@@ -1,0 +1,6 @@
+{
+	"duplicate":"localhost:2000",
+	"logging":"localhost:4000",
+	"authentication":"localhost:9000",
+	"etag":"localhost:7000"
+}
